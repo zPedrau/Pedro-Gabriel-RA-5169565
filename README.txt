@@ -1,7 +1,7 @@
 
 README - Site História do Palmeiras
 ----------------------------------
-Arquivos gerados automaticamente como um modelo para entrega da atividade.
+
 
 Estrutura principal (na pasta raíz):
   - index.htm
